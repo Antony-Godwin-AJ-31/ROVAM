@@ -12,10 +12,10 @@ export const story: StoryMilestone[] = [
     text: "From our earliest conversations to discovering all that we share in common, every step brought us closer to the home we found in one another.",
     caption: "where forever began",
     photo: {
-      src: "/photos/bride-and-groom/When%20Two%20Paths%20Met.jpeg",
-      alt: "Rovina and Amrish together - When Two Paths Met",
-      width: 1120,
-      height: 959,
+      src: "/photos/bride-and-groom/where%20forever%20began.jpeg",
+      alt: "Rovina and Amrish together - Where Forever Began",
+      width: 752,
+      height: 644,
     },
   },
   {
