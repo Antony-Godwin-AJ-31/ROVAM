@@ -12,10 +12,10 @@ export const story: StoryMilestone[] = [
     text: "From our earliest conversations to discovering all that we share in common, every step brought us closer to the home we found in one another.",
     caption: "where forever began",
     photo: {
-      src: "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.53.jpeg",
-      alt: "Rovina and Amrish together",
-      width: 559,
-      height: 1024,
+      src: "/photos/bride-and-groom/When%20Two%20Paths%20Met.jpeg",
+      alt: "Rovina and Amrish together - When Two Paths Met",
+      width: 1120,
+      height: 959,
     },
   },
   {
@@ -25,10 +25,10 @@ export const story: StoryMilestone[] = [
     text: "Building a foundation of kindness, laughter, and unwavering companionship, with gratitude for all the blessings along the way.",
     caption: "hand in hand",
     photo: {
-      src: "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.54.jpeg",
-      alt: "Rovina and Amrish sharing a warm smile",
-      width: 960,
-      height: 1280,
+      src: "/photos/bride-and-groom/Laughter%20%26%20Friendship.jpeg",
+      alt: "Rovina and Amrish sharing a warm smile - Laughter & Friendship",
+      width: 682,
+      height: 1024,
     },
   },
   {

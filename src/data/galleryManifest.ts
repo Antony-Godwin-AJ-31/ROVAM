@@ -16,16 +16,52 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "bride-and-groom-1",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
+    "filename": "Laughter & Friendship.jpeg",
+    "src": "/photos/bride-and-groom/Laughter%20%26%20Friendship.jpeg",
+    "width": 682,
+    "height": 1024,
+    "aspectRatio": 0.67,
+    "orientation": "portrait",
+    "alt": "Bride & Groom photograph 1"
+  },
+  {
+    "id": "bride-and-groom-2",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
+    "filename": "Next chapter.JPG",
+    "src": "/photos/bride-and-groom/Next%20chapter.JPG",
+    "width": 9504,
+    "height": 6336,
+    "aspectRatio": 1.5,
+    "orientation": "landscape",
+    "alt": "Bride & Groom photograph 2"
+  },
+  {
+    "id": "bride-and-groom-3",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
+    "filename": "Opening Image.JPG",
+    "src": "/photos/bride-and-groom/Opening%20Image.JPG",
+    "width": 9504,
+    "height": 6336,
+    "aspectRatio": 1.5,
+    "orientation": "landscape",
+    "alt": "Bride & Groom photograph 3"
+  },
+  {
+    "id": "bride-and-groom-4",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.53.jpeg",
     "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.53.jpeg",
     "width": 559,
     "height": 1024,
     "aspectRatio": 0.55,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 1"
+    "alt": "Bride & Groom photograph 4"
   },
   {
-    "id": "bride-and-groom-2",
+    "id": "bride-and-groom-5",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.54 (2).jpeg",
@@ -34,10 +70,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.75,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 2"
+    "alt": "Bride & Groom photograph 5"
   },
   {
-    "id": "bride-and-groom-3",
+    "id": "bride-and-groom-6",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.54.jpeg",
@@ -46,10 +82,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.75,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 3"
+    "alt": "Bride & Groom photograph 6"
   },
   {
-    "id": "bride-and-groom-4",
+    "id": "bride-and-groom-7",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.55 (1).jpeg",
@@ -58,10 +94,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.56,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 4"
+    "alt": "Bride & Groom photograph 7"
   },
   {
-    "id": "bride-and-groom-5",
+    "id": "bride-and-groom-8",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.55 (2).jpeg",
@@ -70,10 +106,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 644,
     "aspectRatio": 1.17,
     "orientation": "landscape",
-    "alt": "Bride & Groom photograph 5"
+    "alt": "Bride & Groom photograph 8"
   },
   {
-    "id": "bride-and-groom-6",
+    "id": "bride-and-groom-9",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.56 (1).jpeg",
@@ -82,10 +118,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.67,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 6"
+    "alt": "Bride & Groom photograph 9"
   },
   {
-    "id": "bride-and-groom-7",
+    "id": "bride-and-groom-10",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.56 (2).jpeg",
@@ -94,10 +130,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1024,
     "aspectRatio": 0.67,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 7"
+    "alt": "Bride & Groom photograph 10"
   },
   {
-    "id": "bride-and-groom-8",
+    "id": "bride-and-groom-11",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.56 (3).jpeg",
@@ -106,10 +142,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 960,
     "aspectRatio": 1.33,
     "orientation": "landscape",
-    "alt": "Bride & Groom photograph 8"
+    "alt": "Bride & Groom photograph 11"
   },
   {
-    "id": "bride-and-groom-9",
+    "id": "bride-and-groom-12",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.56.jpeg",
@@ -118,50 +154,14 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1024,
     "aspectRatio": 0.55,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 9"
-  },
-  {
-    "id": "bride-and-groom-10",
-    "category": "bride-and-groom",
-    "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.01.57 (1).jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.57%20(1).jpeg",
-    "width": 720,
-    "height": 1280,
-    "aspectRatio": 0.56,
-    "orientation": "portrait",
-    "alt": "Bride & Groom photograph 10"
-  },
-  {
-    "id": "bride-and-groom-11",
-    "category": "bride-and-groom",
-    "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.01.57 (2).jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.57%20(2).jpeg",
-    "width": 852,
-    "height": 1280,
-    "aspectRatio": 0.67,
-    "orientation": "portrait",
-    "alt": "Bride & Groom photograph 11"
-  },
-  {
-    "id": "bride-and-groom-12",
-    "category": "bride-and-groom",
-    "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.01.59 (1).jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.59%20(1).jpeg",
-    "width": 590,
-    "height": 1280,
-    "aspectRatio": 0.46,
-    "orientation": "portrait",
     "alt": "Bride & Groom photograph 12"
   },
   {
     "id": "bride-and-groom-13",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.01.59.jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.59.jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.01.57 (1).jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.57%20(1).jpeg",
     "width": 720,
     "height": 1280,
     "aspectRatio": 0.56,
@@ -172,8 +172,8 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "bride-and-groom-14",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.00 (1).jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.00%20(1).jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.01.57 (2).jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.57%20(2).jpeg",
     "width": 852,
     "height": 1280,
     "aspectRatio": 0.67,
@@ -184,8 +184,8 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "bride-and-groom-15",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.00 (2).jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.00%20(2).jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.01.59 (1).jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.59%20(1).jpeg",
     "width": 590,
     "height": 1280,
     "aspectRatio": 0.46,
@@ -196,16 +196,52 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "bride-and-groom-16",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
+    "filename": "WhatsApp Image 2026-10-11 at 00.01.59.jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.01.59.jpeg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": 0.56,
+    "orientation": "portrait",
+    "alt": "Bride & Groom photograph 16"
+  },
+  {
+    "id": "bride-and-groom-17",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.00 (1).jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.00%20(1).jpeg",
+    "width": 852,
+    "height": 1280,
+    "aspectRatio": 0.67,
+    "orientation": "portrait",
+    "alt": "Bride & Groom photograph 17"
+  },
+  {
+    "id": "bride-and-groom-18",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.00 (2).jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.00%20(2).jpeg",
+    "width": 590,
+    "height": 1280,
+    "aspectRatio": 0.46,
+    "orientation": "portrait",
+    "alt": "Bride & Groom photograph 18"
+  },
+  {
+    "id": "bride-and-groom-19",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.00 (3).jpeg",
     "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.00%20(3).jpeg",
     "width": 960,
     "height": 1280,
     "aspectRatio": 0.75,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 16"
+    "alt": "Bride & Groom photograph 19"
   },
   {
-    "id": "bride-and-groom-17",
+    "id": "bride-and-groom-20",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.01 (2).jpeg",
@@ -214,10 +250,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.56,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 17"
+    "alt": "Bride & Groom photograph 20"
   },
   {
-    "id": "bride-and-groom-18",
+    "id": "bride-and-groom-21",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.02 (1).jpeg",
@@ -226,50 +262,14 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 960,
     "aspectRatio": 1.33,
     "orientation": "landscape",
-    "alt": "Bride & Groom photograph 18"
-  },
-  {
-    "id": "bride-and-groom-19",
-    "category": "bride-and-groom",
-    "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.02.jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.02.jpeg",
-    "width": 559,
-    "height": 1024,
-    "aspectRatio": 0.55,
-    "orientation": "portrait",
-    "alt": "Bride & Groom photograph 19"
-  },
-  {
-    "id": "bride-and-groom-20",
-    "category": "bride-and-groom",
-    "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.04 (3).jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.04%20(3).jpeg",
-    "width": 852,
-    "height": 1280,
-    "aspectRatio": 0.67,
-    "orientation": "portrait",
-    "alt": "Bride & Groom photograph 20"
-  },
-  {
-    "id": "bride-and-groom-21",
-    "category": "bride-and-groom",
-    "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.06 (2).jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.06%20(2).jpeg",
-    "width": 960,
-    "height": 1280,
-    "aspectRatio": 0.75,
-    "orientation": "portrait",
     "alt": "Bride & Groom photograph 21"
   },
   {
     "id": "bride-and-groom-22",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.07.jpeg",
-    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.07.jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.02.jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.02.jpeg",
     "width": 559,
     "height": 1024,
     "aspectRatio": 0.55,
@@ -280,16 +280,52 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "bride-and-groom-23",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.04 (3).jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.04%20(3).jpeg",
+    "width": 852,
+    "height": 1280,
+    "aspectRatio": 0.67,
+    "orientation": "portrait",
+    "alt": "Bride & Groom photograph 23"
+  },
+  {
+    "id": "bride-and-groom-24",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.06 (2).jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.06%20(2).jpeg",
+    "width": 960,
+    "height": 1280,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "alt": "Bride & Groom photograph 24"
+  },
+  {
+    "id": "bride-and-groom-25",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.07.jpeg",
+    "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.07.jpeg",
+    "width": 559,
+    "height": 1024,
+    "aspectRatio": 0.55,
+    "orientation": "portrait",
+    "alt": "Bride & Groom photograph 25"
+  },
+  {
+    "id": "bride-and-groom-26",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.08 (1).jpeg",
     "src": "/photos/bride-and-groom/WhatsApp%20Image%202026-10-11%20at%2000.02.08%20(1).jpeg",
     "width": 1280,
     "height": 960,
     "aspectRatio": 1.33,
     "orientation": "landscape",
-    "alt": "Bride & Groom photograph 23"
+    "alt": "Bride & Groom photograph 26"
   },
   {
-    "id": "bride-and-groom-24",
+    "id": "bride-and-groom-27",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.08 (2).jpeg",
@@ -298,10 +334,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.67,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 24"
+    "alt": "Bride & Groom photograph 27"
   },
   {
-    "id": "bride-and-groom-25",
+    "id": "bride-and-groom-28",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.08.jpeg",
@@ -310,10 +346,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.67,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 25"
+    "alt": "Bride & Groom photograph 28"
   },
   {
-    "id": "bride-and-groom-26",
+    "id": "bride-and-groom-29",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.09 (1).jpeg",
@@ -322,10 +358,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1024,
     "aspectRatio": 0.55,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 26"
+    "alt": "Bride & Groom photograph 29"
   },
   {
-    "id": "bride-and-groom-27",
+    "id": "bride-and-groom-30",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.09 (2).jpeg",
@@ -334,10 +370,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1024,
     "aspectRatio": 0.55,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 27"
+    "alt": "Bride & Groom photograph 30"
   },
   {
-    "id": "bride-and-groom-28",
+    "id": "bride-and-groom-31",
     "category": "bride-and-groom",
     "categoryLabel": "Bride & Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.09 (3).jpeg",
@@ -346,10 +382,34 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1024,
     "aspectRatio": 0.55,
     "orientation": "portrait",
-    "alt": "Bride & Groom photograph 28"
+    "alt": "Bride & Groom photograph 31"
+  },
+  {
+    "id": "bride-and-groom-32",
+    "category": "bride-and-groom",
+    "categoryLabel": "Bride & Groom",
+    "filename": "When Two Paths Met.jpeg",
+    "src": "/photos/bride-and-groom/When%20Two%20Paths%20Met.jpeg",
+    "width": 1120,
+    "height": 959,
+    "aspectRatio": 1.17,
+    "orientation": "landscape",
+    "alt": "Bride & Groom photograph 32"
   },
   {
     "id": "bride-1",
+    "category": "bride",
+    "categoryLabel": "Bride",
+    "filename": "Meet the Bride.JPG",
+    "src": "/photos/bride/Meet%20the%20Bride.JPG",
+    "width": 9504,
+    "height": 6336,
+    "aspectRatio": 1.5,
+    "orientation": "landscape",
+    "alt": "Bride photograph 1"
+  },
+  {
+    "id": "bride-2",
     "category": "bride",
     "categoryLabel": "Bride",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.57.jpeg",
@@ -358,10 +418,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.75,
     "orientation": "portrait",
-    "alt": "Bride photograph 1"
+    "alt": "Bride photograph 2"
   },
   {
-    "id": "bride-2",
+    "id": "bride-3",
     "category": "bride",
     "categoryLabel": "Bride",
     "filename": "WhatsApp Image 2026-10-11 at 00.01.58 (1).jpeg",
@@ -370,26 +430,14 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.56,
     "orientation": "portrait",
-    "alt": "Bride photograph 2"
-  },
-  {
-    "id": "bride-3",
-    "category": "bride",
-    "categoryLabel": "Bride",
-    "filename": "WhatsApp Image 2026-10-11 at 00.01.58.jpeg",
-    "src": "/photos/bride/WhatsApp%20Image%202026-10-11%20at%2000.01.58.jpeg",
-    "width": 960,
-    "height": 1280,
-    "aspectRatio": 0.75,
-    "orientation": "portrait",
     "alt": "Bride photograph 3"
   },
   {
     "id": "bride-4",
     "category": "bride",
     "categoryLabel": "Bride",
-    "filename": "WhatsApp Image 2026-10-11 at 00.01.59 (2).jpeg",
-    "src": "/photos/bride/WhatsApp%20Image%202026-10-11%20at%2000.01.59%20(2).jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.01.58.jpeg",
+    "src": "/photos/bride/WhatsApp%20Image%202026-10-11%20at%2000.01.58.jpeg",
     "width": 960,
     "height": 1280,
     "aspectRatio": 0.75,
@@ -400,8 +448,8 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "bride-5",
     "category": "bride",
     "categoryLabel": "Bride",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.01 (1).jpeg",
-    "src": "/photos/bride/WhatsApp%20Image%202026-10-11%20at%2000.02.01%20(1).jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.01.59 (2).jpeg",
+    "src": "/photos/bride/WhatsApp%20Image%202026-10-11%20at%2000.01.59%20(2).jpeg",
     "width": 960,
     "height": 1280,
     "aspectRatio": 0.75,
@@ -412,8 +460,8 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "bride-6",
     "category": "bride",
     "categoryLabel": "Bride",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.01.jpeg",
-    "src": "/photos/bride/WhatsApp%20Image%202026-10-11%20at%2000.02.01.jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.01 (1).jpeg",
+    "src": "/photos/bride/WhatsApp%20Image%202026-10-11%20at%2000.02.01%20(1).jpeg",
     "width": 960,
     "height": 1280,
     "aspectRatio": 0.75,
@@ -424,16 +472,28 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "bride-7",
     "category": "bride",
     "categoryLabel": "Bride",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.01.jpeg",
+    "src": "/photos/bride/WhatsApp%20Image%202026-10-11%20at%2000.02.01.jpeg",
+    "width": 960,
+    "height": 1280,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "alt": "Bride photograph 7"
+  },
+  {
+    "id": "bride-8",
+    "category": "bride",
+    "categoryLabel": "Bride",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.02 (3).jpeg",
     "src": "/photos/bride/WhatsApp%20Image%202026-10-11%20at%2000.02.02%20(3).jpeg",
     "width": 134,
     "height": 239,
     "aspectRatio": 0.56,
     "orientation": "portrait",
-    "alt": "Bride photograph 7"
+    "alt": "Bride photograph 8"
   },
   {
-    "id": "bride-8",
+    "id": "bride-9",
     "category": "bride",
     "categoryLabel": "Bride",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.03 (1).jpeg",
@@ -442,10 +502,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 988,
     "aspectRatio": 0.47,
     "orientation": "portrait",
-    "alt": "Bride photograph 8"
+    "alt": "Bride photograph 9"
   },
   {
-    "id": "bride-9",
+    "id": "bride-10",
     "category": "bride",
     "categoryLabel": "Bride",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.04 (2).jpeg",
@@ -454,10 +514,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 347,
     "aspectRatio": 0.74,
     "orientation": "portrait",
-    "alt": "Bride photograph 9"
+    "alt": "Bride photograph 10"
   },
   {
-    "id": "bride-10",
+    "id": "bride-11",
     "category": "bride",
     "categoryLabel": "Bride",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.06 (1).jpeg",
@@ -466,26 +526,26 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.75,
     "orientation": "portrait",
-    "alt": "Bride photograph 10"
+    "alt": "Bride photograph 11"
   },
   {
     "id": "groom-1",
     "category": "groom",
     "categoryLabel": "Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.01.55.jpeg",
-    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.01.55.jpeg",
-    "width": 960,
-    "height": 1280,
-    "aspectRatio": 0.75,
-    "orientation": "portrait",
+    "filename": "Meet the groom.JPG",
+    "src": "/photos/groom/Meet%20the%20groom.JPG",
+    "width": 9504,
+    "height": 6336,
+    "aspectRatio": 1.5,
+    "orientation": "landscape",
     "alt": "Groom photograph 1"
   },
   {
     "id": "groom-2",
     "category": "groom",
     "categoryLabel": "Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.01.58 (2).jpeg",
-    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.01.58%20(2).jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.01.55.jpeg",
+    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.01.55.jpeg",
     "width": 960,
     "height": 1280,
     "aspectRatio": 0.75,
@@ -496,8 +556,8 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "groom-3",
     "category": "groom",
     "categoryLabel": "Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.01.58 (3).jpeg",
-    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.01.58%20(3).jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.01.58 (2).jpeg",
+    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.01.58%20(2).jpeg",
     "width": 960,
     "height": 1280,
     "aspectRatio": 0.75,
@@ -508,10 +568,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "groom-4",
     "category": "groom",
     "categoryLabel": "Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.02 (2).jpeg",
-    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.02.02%20(2).jpeg",
-    "width": 768,
-    "height": 1024,
+    "filename": "WhatsApp Image 2026-10-11 at 00.01.58 (3).jpeg",
+    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.01.58%20(3).jpeg",
+    "width": 960,
+    "height": 1280,
     "aspectRatio": 0.75,
     "orientation": "portrait",
     "alt": "Groom photograph 4"
@@ -520,10 +580,10 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "groom-5",
     "category": "groom",
     "categoryLabel": "Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.03 (2).jpeg",
-    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.02.03%20(2).jpeg",
-    "width": 960,
-    "height": 1280,
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.02 (2).jpeg",
+    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.02.02%20(2).jpeg",
+    "width": 768,
+    "height": 1024,
     "aspectRatio": 0.75,
     "orientation": "portrait",
     "alt": "Groom photograph 5"
@@ -532,8 +592,8 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "groom-6",
     "category": "groom",
     "categoryLabel": "Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.05 (3).jpeg",
-    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.02.05%20(3).jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.03 (2).jpeg",
+    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.02.03%20(2).jpeg",
     "width": 960,
     "height": 1280,
     "aspectRatio": 0.75,
@@ -544,8 +604,8 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "groom-7",
     "category": "groom",
     "categoryLabel": "Groom",
-    "filename": "WhatsApp Image 2026-10-11 at 00.02.05.jpeg",
-    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.02.05.jpeg",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.05 (3).jpeg",
+    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.02.05%20(3).jpeg",
     "width": 960,
     "height": 1280,
     "aspectRatio": 0.75,
@@ -556,16 +616,28 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "id": "groom-8",
     "category": "groom",
     "categoryLabel": "Groom",
+    "filename": "WhatsApp Image 2026-10-11 at 00.02.05.jpeg",
+    "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.02.05.jpeg",
+    "width": 960,
+    "height": 1280,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "alt": "Groom photograph 8"
+  },
+  {
+    "id": "groom-9",
+    "category": "groom",
+    "categoryLabel": "Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.06.jpeg",
     "src": "/photos/groom/WhatsApp%20Image%202026-10-11%20at%2000.02.06.jpeg",
     "width": 720,
     "height": 1280,
     "aspectRatio": 0.56,
     "orientation": "portrait",
-    "alt": "Groom photograph 8"
+    "alt": "Groom photograph 9"
   },
   {
-    "id": "groom-9",
+    "id": "groom-10",
     "category": "groom",
     "categoryLabel": "Groom",
     "filename": "WhatsApp Image 2026-10-11 at 00.02.07 (2).jpeg",
@@ -574,6 +646,6 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     "height": 1280,
     "aspectRatio": 0.75,
     "orientation": "portrait",
-    "alt": "Groom photograph 9"
+    "alt": "Groom photograph 10"
   }
 ];

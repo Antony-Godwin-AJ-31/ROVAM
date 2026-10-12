@@ -22,7 +22,7 @@ export const wedding: WeddingConfig = {
 
   event: {
     date: "2026-11-11",
-    time: "16:30",
+    time: "16:00",
     timeZone: "Asia/Kolkata",
   },
 

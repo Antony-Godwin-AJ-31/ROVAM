@@ -8,20 +8,20 @@ import type { AgendaEvent } from "../types/wedding";
 export const agenda: AgendaEvent[] = [
   {
     id: "holy-mass",
-    time: "16:30",
+    time: "16:00",
     title: "Holy Mass",
     venue: "Annai Velankanni Mini Basilica, Besant Nagar",
     description: "Join the couple and their families for the wedding Mass as Rovina and Amrish exchange their vows.",
     icon: "ceremony",
-    note: "Begins promptly at 4:30 PM IST",
+    note: "Begins promptly at 4:00 PM IST",
   },
   {
     id: "wedding-reception",
-    time: "18:00",
+    time: "18:30",
     title: "Wedding Reception",
     venue: "P. T. Arulappa Hall (Within church premises)",
     description: "Celebrate the newlyweds with an evening of blessings, joy, family, and friends.",
     icon: "reception",
-    note: "Located within the same church premises — just steps away",
+    note: "Located within the same church premises — begins at 6:30 PM IST",
   },
 ];

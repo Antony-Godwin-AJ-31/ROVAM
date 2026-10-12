@@ -44,6 +44,14 @@ export function HeroSection({ eyebrow, bride, groom, dateLabel, message, photo, 
               onComplete={() => setNamesWritten(true)}
             />
           </div>
+          <p
+            className={`mt-2 sm:mt-3 px-4 max-w-lg text-center font-serif italic text-base sm:text-lg md:text-xl text-[var(--color-espresso)]/90 tracking-wide transition-all duration-1000 ease-out ${
+              namesWritten ? "opacity-100 translate-y-0" : "opacity-0 translate-y-3 pointer-events-none"
+            }`}
+            style={{ textWrap: "balance" }}
+          >
+            “Whatever our souls are made of, his and mine are the same.”
+          </p>
         </div>
 
         {/* Subsequent Hero Content: Fades in once names are written */}

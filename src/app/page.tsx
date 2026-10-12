@@ -16,7 +16,6 @@ import { HeroSection } from "../components/hero/HeroSection";
 import { Countdown } from "../components/countdown/Countdown";
 import { CoupleProfiles } from "../components/couple/CoupleProfiles";
 import { OurStory } from "../components/story/OurStory";
-import { CompleteGallery } from "../components/gallery/CompleteGallery";
 import { WeddingAgenda } from "../components/agenda/WeddingAgenda";
 import { VenueSection } from "../components/venue/VenueSection";
 import { GuestInformation } from "../components/information/GuestInformation";
@@ -74,7 +73,6 @@ export default function Page() {
     { href: "#countdown", label: "Countdown" },
     ...(showStory ? [{ href: "#story", label: "Our Story" }] : []),
     { href: "#couple", label: "Us" },
-    { href: "#gallery", label: "Gallery" },
     { href: "#venue", label: "Where We Unite" },
     { href: "#agenda", label: "Schedule" },
     ...(infoRows.length ? [{ href: "#info", label: "Details" }] : []),
@@ -149,16 +147,9 @@ export default function Page() {
             <CoupleProfiles bride={couple.bride} groom={couple.groom} illustrations={features.illustrations} />
           </ScrollFadeSection>
           
-          <WaveDivider variant="floral" colorFrom="var(--color-ivory)" colorTo="var(--color-paper)" />
-
-          {/* 5. Complete Photo Gallery (All 47 photographs across 3 folders) */}
-          <ScrollFadeSection>
-            <CompleteGallery />
-          </ScrollFadeSection>
-
-          <WaveDivider variant="curve" colorFrom="var(--color-paper)" colorTo="var(--color-ivory)" flip />
+          <WaveDivider variant="curve" colorFrom="var(--color-ivory)" colorTo="var(--color-paper)" />
           
-          {/* 6. Where We Unite (Church, Reception & Venue Details) */}
+          {/* 5. Where We Unite (Church, Reception & Venue Details) */}
           <ScrollFadeSection>
             <VenueSection venue={venue} />
           </ScrollFadeSection>

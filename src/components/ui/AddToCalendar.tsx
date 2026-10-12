@@ -36,13 +36,13 @@ export function AddToCalendar({ className = "", variant = "secondary" }: AddToCa
   // Event details
   const title = "Wedding of Rovina & Amrish";
   const description =
-    "Join Rovina & Amrish as they celebrate their Holy Matrimony with Holy Mass at 4:30 PM in Annai Velankanni Mini Basilica, Besant Nagar, Chennai. Reception to follow at 6:00 PM in P. T. Arulappa Hall (within church premises).";
+    "Join Rovina & Amrish as they celebrate their Holy Matrimony with Holy Mass at 4:00 PM IST in Annai Velankanni Mini Basilica, Besant Nagar, Chennai. Reception to follow at 6:30 PM IST in P. T. Arulappa Hall (within church premises).";
   const location = "Annai Velankanni Mini Basilica, Besant Nagar, Chennai, Tamil Nadu, India";
 
-  // Google Calendar URL (2026-11-11 16:30 IST is 11:00 UTC)
+  // Google Calendar URL (2026-11-11 16:00 IST is 10:30 UTC)
   const googleCalendarUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(
     title
-  )}&dates=20261111T110000Z/20261111T160000Z&details=${encodeURIComponent(
+  )}&dates=20261111T103000Z/20261111T160000Z&details=${encodeURIComponent(
     description
   )}&location=${encodeURIComponent(location)}`;
 
@@ -57,7 +57,7 @@ export function AddToCalendar({ className = "", variant = "secondary" }: AddToCa
       "BEGIN:VEVENT",
       "UID:wedding-rovina-amrish-20261111@savethedate",
       "DTSTAMP:20261111T000000Z",
-      "DTSTART:20261111T110000Z",
+      "DTSTART:20261111T103000Z",
       "DTEND:20261111T160000Z",
       `SUMMARY:${title}`,
       `DESCRIPTION:${description.replace(/\n/g, "\\n")}`,
@@ -118,7 +118,7 @@ export function AddToCalendar({ className = "", variant = "secondary" }: AddToCa
         >
           <div className="px-3 py-1.5 border-b border-[var(--color-gold)]/20 mb-1">
             <p className="text-[11px] font-semibold uppercase tracking-wider text-[var(--color-moss)]">
-              11 Nov 2026 • 4:30 PM
+              11 Nov 2026 • 4:00 PM
             </p>
           </div>
 
