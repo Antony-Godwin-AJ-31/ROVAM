@@ -39,7 +39,7 @@ export const wedding: WeddingConfig = {
 
   assets: {
     hero: { src: "/images/couple/hero.jpg", alt: "Rovina and Amrish - Save the Date", width: 9504, height: 6336, objectPosition: "50% 25%" },
-    closing: { src: "/images/couple/closing.jpg", alt: "The couple", width: 1600, height: 1067 },
+    closing: { src: "/images/couple/closing.jpg", alt: "The couple", width: 9504, height: 6336 },
     music: "/audio/wedding-music.mp3",
   },
 

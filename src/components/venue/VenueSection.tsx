@@ -43,7 +43,7 @@ export function VenueSection({ venue }: { venue: Venue }) {
               <div className="rounded-xl p-4 bg-white/80 border border-[var(--color-sage-soft)] shadow-sm">
                 <div className="flex items-center gap-2 text-[var(--color-moss)] font-semibold text-sm">
                   <Church size={18} />
-                  <span>Wedding Mass • 4:30 PM</span>
+                  <span>Wedding Mass • 4:00 PM</span>
                 </div>
                 <h3 className="font-serif text-2xl text-[var(--color-ink)] mt-1 font-medium">{venue.name}</h3>
                 <address className="venue-address text-sm mt-1 not-italic text-[var(--color-brown)]">
@@ -55,7 +55,7 @@ export function VenueSection({ venue }: { venue: Venue }) {
               <div className="rounded-xl p-4 bg-white/80 border border-[var(--color-blush)] shadow-sm">
                 <div className="flex items-center gap-2 text-[var(--color-rose)] font-semibold text-sm">
                   <Sparkles size={18} />
-                  <span>Wedding Reception • 6:00 PM</span>
+                  <span>Wedding Reception • 6:30 PM</span>
                 </div>
                 <h3 className="font-serif text-2xl text-[var(--color-ink)] mt-1 font-medium">P. T. Arulappa Hall</h3>
                 <p className="text-sm text-[var(--color-brown)] mt-1">
